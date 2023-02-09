@@ -1,0 +1,20 @@
+/* RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* BODY */
+
+.container {
+    background-color: black;
+    height: 100vh;
+    position: relative;
+}
+
+.button {
+    position: absolute;
+    top: 0; 
+    right: 0;
+    padding: 2px;
+}   
